@@ -9,6 +9,10 @@
   background-repeat: no-repeat;
 }
 
+h1{
+  text-align: center;
+}
+
 img{
   background-size: contain;
   width: 100%;
@@ -21,5 +25,9 @@ img{
 
 .hide{
   visibility: hidden;
+}
+
+body{
+  background: #FFF8DC;
 }
 
